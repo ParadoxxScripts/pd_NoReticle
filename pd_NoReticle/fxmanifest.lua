@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'ToastinYou'
-description 'No Reticle / Reticle Disabler'
-version '2.2.0'
+author 'ParadoxDev'
+description 'ParadoxDev - Reticle Disabler'
+version '1.0.0'
 
 client_scripts {
 	'Client.net.dll',
